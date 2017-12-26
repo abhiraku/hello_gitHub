@@ -1,4 +1,4 @@
-
+I hope i am understand something about git On 26Dec
 
 # hello_g
 I Want to modify all code in same package on 26Dec2017
